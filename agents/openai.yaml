@@ -1,0 +1,6 @@
+interface:
+  display_name: "🦁 XXD Panel 041"
+  short_description: "Create source-aware XXD Panel 041 artwork"
+  default_prompt: "Use $xxd-panel-041 with my photograph, ask for modes and copy settings, then create fresh raster outputs."
+policy:
+  allow_implicit_invocation: true

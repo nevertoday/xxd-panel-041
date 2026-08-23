@@ -1,0 +1,125 @@
+<p align="center"><img src="./assets/banner.svg" alt="XXD Panel 041 project banner" width="1200"></p>
+
+<div align="center">
+
+# 🦁 XXD Panel 041
+
+### 원본에 근거한 은유를 맑은 아이소메트릭 연구도에
+
+[![Codex Skill](https://img.shields.io/badge/Codex-Skill-000000?style=flat-square)](./SKILL.md)
+[![Modes](https://img.shields.io/badge/Modes-4-EA846F?style=flat-square)](#)
+[![Output](https://img.shields.io/badge/Output-PNG-6FAEB4?style=flat-square)](#)
+
+<a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <strong>한국어</strong> · <a href="README.ar.md">العربية</a>
+
+</div>
+
+<div>
+
+> 주제 은유 · 등거리 질서 · 옅은 수고 · 일본식 맑은 색 · 동양의 여백
+
+일관된 아이소메트릭 모델이 원본 정체성을 지키고 하나의 기하학적 은유가 받침, 틈, 길, 둘레 또는 음의 형태가 됩니다. 옅은 연구 스케치는 밝은 완성형 주변의 종속적인 사고 흔적입니다.
+
+## 이 Skill이 필요한 이유
+
+이 스타일은 원본에 의존하며 내용을 바꿔 끼우는 장식 프리셋이 아닙니다. 다음 변환 인과를 따릅니다:
+
+```text
+lock identity and structural axes → preserve three defining cues → rebuild with one coherent isometric grid → derive one source-earned metaphor → make the metaphor govern base, cut, path, enclosure, support, or negative space → use luminous source-derived Japanese colour and matte planes → surround with faint analytic studies → align copy to axes and construction lines
+```
+
+무관한 사진으로 바꿔도 식별, 구성, 배치, 재료, 색, 여백과 문구가 실질적으로 달라지지 않는다면 이 Panel의 결과가 아닙니다.
+
+## 시각적 원칙
+
+- **원본 결속:** 원본에 근거한 은유를 맑은 아이소메트릭 연구도에
+- **스타일 DNA:** 주제 은유 · 등거리 질서 · 옅은 수고 · 일본식 맑은 색 · 동양의 여백
+- **식별성:** 원본 고유 단서를 세 가지 이상 보존하며 무관한 사진이라면 구성도 실질적으로 달라져야 합니다.
+- **구도:** 하나의 주체 또는 분리할 수 없는 관계, 원본에 근거한 배치와 능동적 여백을 지킵니다.
+- **재료와 색:** 고정 템플릿이 아니라 사진에서 도출하고 프로젝트별 생성 규격을 적용합니다.
+
+전체 미적 제약과 금지 항목은 Skill과 생성 프롬프트에 있습니다. 원문 미학을 보존하지만 역사적인 3:4 화면을 숨은 기본값으로 만들지 않습니다. [SKILL.md](SKILL.md) · [production prompt](references/xxd-panel-041-prompt.en.md)
+
+## 예시 · 곧 추가됩니다
+
+`assets/examples/`에는 프로젝트 작성자가 확인한 이 스타일의 완성작만 추가하고 다른 스타일을 자리표시자로 쓰지 않습니다.
+
+## 조합 가능한 네 가지 출력
+
+`1`, `1+3`, `1,2,4`, `전체`로 하나 또는 여러 모드를 선택할 수 있습니다. `전체`는 원본 한 장당 일반 결과 3개와 배경화면 4개, 총 PNG 7개를 만듭니다.
+
+| 모드 | 미지정 크기 | 결과물 |
+| --- | --- | --- |
+| `top-bottom` | 원본 적응형 `W×2H` | 위에 전체 원본, 아래에 변환 디자인, 정확한 50/50 |
+| `left-right` | 원본 적응형 `2W×H` | 왼쪽에 전체 원본, 오른쪽에 변환 디자인, 정확한 50/50 |
+| `design-only` | 원본 적응형 `W×H` | 변환 디자인만 표시하고 원본 사진은 보이지 않음 |
+| `wallpaper-pack` | 기기별 지정 | 휴대전화, iPad, 데스크톱, 어린이용 스마트워치 PNG 개별 출력 |
+
+배경화면은 연결형 또는 독립형입니다. 연결형은 기준 작품 하나를 승인한 뒤 모든 기기가 원본과 같은 기준 작품을 참조하며 크롭하거나 파생 결과를 연쇄 참조하지 않습니다. 독립형은 각 기기가 원본만 참조합니다.
+
+## 문구와 언어
+
+생성 전에 자동 문구, 정확한 사용자 문구, 무문자 중 하나를 확정합니다. 언어는 명령문이 아니라 대상 독자를 따르며 완성 문구는 그대로 유지합니다.
+
+이 프로젝트의 문구 규칙: 원본의 주체, 동작, 관계, 감정 또는 함의에 강하게 결속된 짧은 제목 하나만 만들고 필요한 미세 주석을 최소화합니다. 대상 언어 고유의 문자 구조로 재료, 윤곽, 축과 여백에 통합하며 완성 문구는 그대로 유지합니다.
+
+## 기하, 래스터, 신뢰
+
+일반 모드는 지정이 없으면 원본에 맞추고, 이중 패널은 정확히 50/50이며 결과물은 PNG 래스터입니다. 호출마다 `~/Desktop/xxd/`에 새 작업을 만들고 비공개 생성 경로 정보를 노출하지 않습니다.
+
+설정된 이미지 브리지는 비식별 상태만 반환하며 제공자, 엔드포인트, 인증 정보, 헤더, 프롬프트, 응답 또는 계정 정보를 노출하지 않습니다. SVG, HTML, Canvas, 도표와 프로그램 그림은 최종 래스터 작품을 대신할 수 없습니다.
+
+## 시작하기
+
+```bash
+git clone https://github.com/nevertoday/xxd-panel-041.git
+mkdir -p ~/.codex/skills
+ln -s "$(pwd)/xxd-panel-041" ~/.codex/skills/xxd-panel-041
+```
+
+Claude Code 사용자는 같은 폴더를 다음 위치에 연결할 수 있습니다: `~/.claude/skills/xxd-panel-041`. 설치 후 에이전트 세션을 다시 시작하세요.
+
+```text
+$xxd-panel-041
+Use this photograph, ask me for the modes and copy setting, then generate fresh raster outputs.
+```
+
+전체 사양: [Skill 워크플로](SKILL.md) · [원본 스타일 자료](references/041-source.md) · [영문 생성 프롬프트](references/xxd-panel-041-prompt.en.md) · [중문 생성 프롬프트](references/xxd-panel-041-prompt.zh-CN.md)
+
+## XXD 소개
+
+XXD는 Xiaoxiaodong 브랜드 이름의 약자입니다. 제작 및 유지관리: [@xiaoxiaodong01](https://x.com/xiaoxiaodong01).
+
+## 지원과 멤버십
+
+### 심층 상담 · 시간당 CNY 299
+
+Skills 사용과 워크플로에 관한 일대일 심층 상담입니다. WeChat으로 Xiaoxiaodong에게 문의하세요. [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
+
+### Xiaoxiaodong Skills 사용자 교류 그룹 · CNY 99
+
+한 번의 결제로 Skills 사용자 교류 그룹에 참여합니다. 시간제 일대일 상담은 별도입니다.
+
+### Knowledge Planet＋회원 프롬프트 라이브러리 · 연 CNY 699
+
+Knowledge Planet과 회원 프롬프트 라이브러리는 하나의 연간 멤버십입니다. 어느 한쪽에서 가입한 뒤 WeChat으로 연락하면 다른 쪽도 열립니다.
+
+[Knowledge Planet](https://wx.zsxq.com/group/15554814142882) · [Member Prompt Library](https://vip.xiaoxiaodong.ai/)
+
+<p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="XXD WeChat" width="280"></a></p>
+
+<div align="center"><strong>완성된 형태와 생각의 흔적이 하나의 조용한 장을 공유합니다.</strong></div>
+
+---
+
+<div align="center">
+
+## ☕ 오픈 소스 프로젝트 후원
+
+중국어판 이외에는 Buy Me a Coffee를 이용할 수 있습니다. 후원은 선택 사항이며 오픈 소스 접근 권한을 바꾸지 않습니다.
+
+
+<p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
+
+</div>
+</div>
