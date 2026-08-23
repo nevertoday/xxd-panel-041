@@ -1,7 +1,14 @@
 # XXD Panel 041 samples
 
-This directory is reserved for future local samples verified by the project owner.
+Verified source: https://x.com/xiaoxiaodong01/status/2091001986519068891
 
-- Do not use another Panel style, unrelated X post, or remote image as a placeholder.
-- A future sample demonstrates range only; it never becomes a default subject, palette, composition, copy, or canvas.
-- Generation must remain source-bound to the current request and follow the Isometric Metaphor Model with Research Manuscript contract.
+- Author: Xiaoxiaodong (`@xiaoxiaodong01`)
+- Project assignment: `VOL.041`
+- Verification: The X post says `VOL.401`; the author confirmed in this conversation that this is a numbering typo and assigned the samples to XXD Panel 041.
+- Local files:
+- `sample-01.jpg`
+- `sample-02.jpg`
+- `sample-03.jpg`
+- `sample-04.jpg`
+
+The repository READMEs display these local copies and link every image back to the original X post. The samples demonstrate the style's aesthetic motive and range only; they never become generation references, source material, fixed subjects, palettes, composition, copy, or default canvas sizes.

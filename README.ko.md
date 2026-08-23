@@ -40,9 +40,25 @@ lock identity and structural axes → preserve three defining cues → rebuild w
 
 전체 미적 제약과 금지 항목은 Skill과 생성 프롬프트에 있습니다. 원문 미학을 보존하지만 역사적인 3:4 화면을 숨은 기본값으로 만들지 않습니다. [SKILL.md](SKILL.md) · [production prompt](references/xxd-panel-041-prompt.en.md)
 
-## 예시 · 곧 추가됩니다
+## 예시 · X에서
 
-`assets/examples/`에는 프로젝트 작성자가 확인한 이 스타일의 완성작만 추가하고 다른 스타일을 자리표시자로 쓰지 않습니다.
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091001986519068891) · 2026년 8월 22일<br>
+> GPT2 × 아이소메트릭 × 레오나르도 다 빈치 × 미학 프롬프트<br>참고: 원문 게시물의 “VOL.401”은 번호 오기이며, 작성자가 이 예시가 XXD Panel 041에 해당함을 확인했습니다.
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 041 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 041 예시 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 041 예시 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 041 예시 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 041의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 조합 가능한 네 가지 출력
 

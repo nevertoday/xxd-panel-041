@@ -40,9 +40,25 @@ lock identity and structural axes → preserve three defining cues → rebuild w
 
 完全な美的制約と拒否項目は Skill と生成プロンプトにあります。原文の美的動機を守りつつ、歴史的な3:4画布を隠れた既定値にはしません。 [SKILL.md](SKILL.md) · [production prompt](references/xxd-panel-041-prompt.en.md)
 
-## 作例 · 近日追加
+## 作例 · X より
 
-`assets/examples/` には作者確認済みの本スタイル作品だけを追加し、他スタイルを仮置きしません。
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091001986519068891) · 2026年8月22日<br>
+> GPT2 × isometric × レオナルド・ダ・ヴィンチ × 美学プロンプト<br>注：元の投稿にある「VOL.401」は番号の誤記であり、作者が本作例を XXD Panel 041 と確認しています。
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 041 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 041 作例 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 041 作例 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 041 作例 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 041 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 組み合わせ可能な4つの出力
 
