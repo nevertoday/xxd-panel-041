@@ -216,7 +216,7 @@ XXD 是小小东品牌名的缩写，本项目由小小东创建并维护： [@x
 
 一对一深入咨询 Skills 的使用与工作流，通过微信联系小小东预约。 [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
 
-### 小小东 Skills 用户交流群 · 99 元
+### 小小东 Skills 用户交流群 · 168 元
 
 一次付费加入 Skills 用户交流群，用于工作流分享和用户间讨论；不包含按小时计费的一对一咨询。
 

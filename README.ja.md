@@ -215,7 +215,7 @@ XXD は Xiaoxiaodong のブランド名略称です。作成・管理： [@xiaox
 
 Skills の使用とワークフローに関する一対一の相談です。WeChat で Xiaoxiaodong にご連絡ください。 [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
 
-### Xiaoxiaodong Skills ユーザー交流グループ · 99元
+### Xiaoxiaodong Skills ユーザー交流グループ · 168元
 
 一回の支払いで Skills ユーザー交流グループに参加できます。時間制の個別相談は別料金です。
 

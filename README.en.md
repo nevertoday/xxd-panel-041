@@ -216,7 +216,7 @@ XXD is Xiaoxiaodong's abbreviated brand name. Created and maintained by [@xiaoxi
 
 One-to-one in-depth consultation for using Skills. Contact Xiaoxiaodong through WeChat. [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
 
-### Xiaoxiaodong Skills User Community · CNY 99
+### Xiaoxiaodong Skills User Community · CNY 168
 
 A one-time fee joins the Skills user community for workflow sharing and peer discussion; hourly consultation is separate.
 

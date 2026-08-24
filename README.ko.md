@@ -215,7 +215,7 @@ XXD는 Xiaoxiaodong 브랜드 이름의 약자입니다. 제작 및 유지관리
 
 Skills 사용과 워크플로에 관한 일대일 심층 상담입니다. WeChat으로 Xiaoxiaodong에게 문의하세요. [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
 
-### Xiaoxiaodong Skills 사용자 교류 그룹 · CNY 99
+### Xiaoxiaodong Skills 사용자 교류 그룹 · CNY 168
 
 한 번의 결제로 Skills 사용자 교류 그룹에 참여합니다. 시간제 일대일 상담은 별도입니다.
 

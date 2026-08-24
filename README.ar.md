@@ -215,7 +215,7 @@ XXD هو اختصار اسم علامة Xiaoxiaodong. أنشأ المشروع و
 
 استشارة فردية متعمقة في استخدام Skills ومسار العمل. تواصل مع Xiaoxiaodong عبر WeChat. [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
 
-### مجموعة مستخدمي Xiaoxiaodong Skills · 99 يواناً
+### مجموعة مستخدمي Xiaoxiaodong Skills · 168 يواناً
 
 تتيح دفعة واحدة الانضمام إلى مجموعة مستخدمي Skills لتبادل المسارات والنقاش؛ والاستشارة الفردية بالساعة منفصلة.
 
