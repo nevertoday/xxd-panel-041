@@ -40,7 +40,18 @@ One coherent isometric model preserves the source while a single geometric metap
 
 These samples demonstrate the 041 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why this Skill exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 041 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Build one source-earned metaphor into a luminous isometric study |
+| **Recognizable signature** | THEME METAPHOR · ISOMETRIC ORDER · PALE MANUSCRIPT · JAPANESE COLOUR · EASTERN SPACE |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 The style is source-dependent, not a decorative preset. Its operative transformation is:
 
@@ -50,7 +61,7 @@ lock identity and structural axes → preserve three defining cues → rebuild w
 
 If an unrelated photograph could replace the source without materially changing recognition, construction, placement, material, colour, whitespace, and copy, the result does not belong to this Panel.
 
-## The visual contract
+## What makes the finished style recognizable
 
 - Preserve at least three cues across silhouette, proportion, axis, opening, layer, direction, action, or relation.
 - Use one coherent isometric axis system and rebuild meaningful masses, levels, cuts, and spatial relations; never merely turn the object into a generic 3D model.
