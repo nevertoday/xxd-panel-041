@@ -63,16 +63,18 @@ These samples demonstrate the 041 aesthetic motive. Their subjects, composition,
 
 ## Four combinable output modes
 
-Choose one or several modes with `1`, `1+3`, `1,2,4`, or `all`. `all` produces seven PNGs per source: three ordinary outputs plus four wallpapers.
+Choose one or several modes with `1`, `1+3`, `1,2,4`, or `all`; `all` produces seven separate PNGs per source. After mode selection and before generation, the Skill explicitly asks for the whole finished canvas: the original-prompt `3:4`, an explicit source-aspect choice, a common ratio, or custom ratio/exact pixels. Source dimensions are never applied silently.
 
-| Mode | Default sizing | Result |
+| Mode | Canvas rule | Result |
 | --- | --- | --- |
-| `top-bottom` | source-adaptive `W×2H` | full source above and transformed design below, exact 50/50 |
-| `left-right` | source-adaptive `2W×H` | full source left and transformed design right, exact 50/50 |
-| `design-only` | source-adaptive `W×H` | transformed design only, no visible source |
-| `wallpaper-pack` | labelled device sizes | separate phone, iPad, desktop, and children's-watch PNGs |
+| `top-bottom` | user-confirmed whole canvas | one complete generation: high-fidelity source above, 041 design below, approximately 50/50 |
+| `left-right` | user-confirmed whole canvas | one complete generation: high-fidelity source left, 041 design right, approximately 50/50 |
+| `design-only` | user-confirmed whole canvas | 041 design fills the canvas; source remains invisible |
+| `wallpaper-pack` | confirmed per device | separate phone, iPad, desktop, and children's-watch PNGs |
 
-Wallpapers may be linked or independent. A linked set approves one anchor, then every device references the original plus that same anchor; it never crops or chains derivatives. An independent set gives every device only the original source.
+Paired modes use the source as a high-fidelity edit/reference input and one complete style prompt to generate the finished composition directly, so photography, design, colour, light, typography, and meaning can cohere. Deterministic composition is fallback-only: after one targeted complete-canvas retry fails, when pixel-identical source preservation is explicitly required, when the active route cannot realise the canvas, or for lossless final pixel calibration.
+
+Wallpapers may be linked or independent. A linked pack approves one iPad anchor, then recomposes every other device from the original plus that same anchor. An independent pack gives each device only the original. Neither crops another device output nor chains derivatives.
 
 ## Copy and locale
 
@@ -80,11 +82,11 @@ Automatic copy, exact custom copy, or text-free output is confirmed before gener
 
 Project-specific copy rule: Use one concise source-bound title plus only necessary place, state, or micro-annotation. Align native text with isometric axes, metaphor boundaries, cut planes, or faint construction lines so it reads as an art-publication information layer.
 
-## Geometry, raster output, and trust
+## Complete-canvas first, raster-only delivery
 
-Ordinary canvases adapt to the source unless overridden. Paired layouts are exact 50/50; all deliverables are raster PNGs. Every invocation creates a fresh task under `~/Desktop/xxd/`, and private route details are never exposed.
+The image model owns the aesthetics of the entire finished composition; paired layouts also default to one complete-canvas generation. `scripts/compose_panel.py` remains only for condition-based recovery, lossless pixel calibration, and read-only audit. It is not run pre-emptively and does not judge aesthetic success.
 
-The configured bitmap bridge emits sanitised status only. It never exposes providers, endpoints, credentials, headers, prompts, responses, or account details. SVG, HTML, Canvas, diagrams, and programmatic art are not substitutes for final raster artwork.
+Every deliverable is a raster PNG and every invocation creates a fresh task under `~/Desktop/xxd/`. The configured image route exposes sanitised status only—never providers, endpoints, credentials, headers, prompts, responses, or account details. SVG, HTML, Canvas, diagrams, and programmatic drawing are not substitutes for the final artwork.
 
 ## Get started
 
