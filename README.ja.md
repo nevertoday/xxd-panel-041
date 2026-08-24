@@ -20,26 +20,6 @@
 
 一貫した等距モデルが元写真の同一性を守り、一つの幾何学的比喩が台座、隙間、道、囲い、負形になります。淡い研究スケッチは明るい完成形の周囲に従属する思考の跡です。
 
-## この Skill が必要な理由
-
-このスタイルは元写真に依存し、内容を差し替えられる装飾プリセットではありません。変換は次の因果鎖に従います：
-
-```text
-lock identity and structural axes → preserve three defining cues → rebuild with one coherent isometric grid → derive one source-earned metaphor → make the metaphor govern base, cut, path, enclosure, support, or negative space → use luminous source-derived Japanese colour and matte planes → surround with faint analytic studies → align copy to axes and construction lines
-```
-
-無関係な写真に替えても認識、構造、配置、素材、色、余白、文案が実質的に変わらないなら、本 Panel の成果ではありません。
-
-## ビジュアル契約
-
-- **元写真への拘束：** 元写真に根差す比喩を、透明感ある等距研究図へ組み込む
-- **スタイルDNA：** テーマ比喩 · 等距秩序 · 淡い手稿 · 和色の透明感 · 東洋の余白
-- **識別性：** 元写真固有の手掛かりを三つ以上保ち、無関係な写真なら構造も実質的に変わること。
-- **構図：** 一つの主体または不可分の関係、元写真に根拠のある配置、能動的な余白を守ること。
-- **素材と色：** 固定テンプレートではなく、写真から導き、プロジェクト固有の生成仕様に従うこと。
-
-美的制約と拒否項目は[原文プロンプト](references/041-source.md)だけにあり、Skill とランタイムアダプターは今回の出力変数だけを扱います。 [Skill](SKILL.md) · [英語ランタイムアダプター](references/xxd-panel-041-prompt.en.md)
-
 ## 作例 · X より
 
 > [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091001986519068891) · 2026年8月22日<br>
@@ -59,6 +39,26 @@ lock identity and structural axes → preserve three defining cues → rebuild w
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891">元の投稿と完全なプロンプトを見る →</a></p>
 
 これらの作例は 041 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
+## この Skill が必要な理由
+
+このスタイルは元写真に依存し、内容を差し替えられる装飾プリセットではありません。変換は次の因果鎖に従います：
+
+```text
+lock identity and structural axes → preserve three defining cues → rebuild with one coherent isometric grid → derive one source-earned metaphor → make the metaphor govern base, cut, path, enclosure, support, or negative space → use luminous source-derived Japanese colour and matte planes → surround with faint analytic studies → align copy to axes and construction lines
+```
+
+無関係な写真に替えても認識、構造、配置、素材、色、余白、文案が実質的に変わらないなら、本 Panel の成果ではありません。
+
+## ビジュアル契約
+
+- **元写真への拘束：** 元写真に根差す比喩を、透明感ある等距研究図へ組み込む
+- **スタイルDNA：** テーマ比喩 · 等距秩序 · 淡い手稿 · 和色の透明感 · 東洋の余白
+- **識別性：** 元写真固有の手掛かりを三つ以上保ち、無関係な写真なら構造も実質的に変わること。
+- **構図：** 一つの主体または不可分の関係、元写真に根拠のある配置、能動的な余白を守ること。
+- **素材と色：** 固定テンプレートではなく、写真から導き、プロジェクト固有の生成仕様に従うこと。
+
+美的制約と拒否項目は[原文プロンプト](references/041-source.md)だけにあり、Skill とランタイムアダプターは今回の出力変数だけを扱います。 [Skill](SKILL.md) · [英語ランタイムアダプター](references/xxd-panel-041-prompt.en.md)
 
 ## 原文プロンプトを唯一の美的基準にする
 

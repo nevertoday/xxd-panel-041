@@ -20,6 +20,26 @@
 
 统一等距模型保住源图身份，一个几何主题隐喻成为底座、缺口、路径、包围或负形；极淡研究草图只在清透成品周围留下从属的思考痕迹。
 
+## 样张 · 来自 X
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091001986519068891) · 2026 年 8 月 22 日<br>
+> GPT2 × isometric × 达·芬奇 × 美学提示词<br>注：原推文正文中的 “VOL.401” 为编号笔误；作者已确认该样张归属 XXD Panel 041。
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 041 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 041 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 041 样张 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 041 样张 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 041 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
 ## 为什么需要这套 Skill
 
 这套风格依赖每一张源图，不是可替换内容的装饰预设。它遵循这条重构链：
@@ -40,26 +60,6 @@
 - 允许有源图依据的偏置、悬浮、尺度反差、裁切与东方留白，但始终只保留一个视觉中心。
 
 原始审美约束与拒绝项只存在于[原始提示词](references/041-source.md)；Skill 与运行适配器只处理本次交付变量。 [Skill 工作流](SKILL.md) · [英文运行适配器](references/xxd-panel-041-prompt.en.md)
-
-## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091001986519068891) · 2026 年 8 月 22 日<br>
-> GPT2 × isometric × 达·芬奇 × 美学提示词<br>注：原推文正文中的 “VOL.401” 为编号笔误；作者已确认该样张归属 XXD Panel 041。
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 041 样张 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 041 样张 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 041 样张 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 041 样张 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891">查看原推文与完整提示词 →</a></p>
-
-这些样张用于展示 041 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 原始提示词优先，而不是二次导演
 

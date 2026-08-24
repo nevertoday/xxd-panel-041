@@ -20,26 +20,6 @@
 
 일관된 아이소메트릭 모델이 원본 정체성을 지키고 하나의 기하학적 은유가 받침, 틈, 길, 둘레 또는 음의 형태가 됩니다. 옅은 연구 스케치는 밝은 완성형 주변의 종속적인 사고 흔적입니다.
 
-## 이 Skill이 필요한 이유
-
-이 스타일은 원본에 의존하며 내용을 바꿔 끼우는 장식 프리셋이 아닙니다. 다음 변환 인과를 따릅니다:
-
-```text
-lock identity and structural axes → preserve three defining cues → rebuild with one coherent isometric grid → derive one source-earned metaphor → make the metaphor govern base, cut, path, enclosure, support, or negative space → use luminous source-derived Japanese colour and matte planes → surround with faint analytic studies → align copy to axes and construction lines
-```
-
-무관한 사진으로 바꿔도 식별, 구성, 배치, 재료, 색, 여백과 문구가 실질적으로 달라지지 않는다면 이 Panel의 결과가 아닙니다.
-
-## 시각적 원칙
-
-- **원본 결속:** 원본에 근거한 은유를 맑은 아이소메트릭 연구도에
-- **스타일 DNA:** 주제 은유 · 등거리 질서 · 옅은 수고 · 일본식 맑은 색 · 동양의 여백
-- **식별성:** 원본 고유 단서를 세 가지 이상 보존하며 무관한 사진이라면 구성도 실질적으로 달라져야 합니다.
-- **구도:** 하나의 주체 또는 분리할 수 없는 관계, 원본에 근거한 배치와 능동적 여백을 지킵니다.
-- **재료와 색:** 고정 템플릿이 아니라 사진에서 도출하고 프로젝트별 생성 규격을 적용합니다.
-
-미적 제약과 금지 항목은 [원본 프롬프트](references/041-source.md)에만 있으며 Skill과 런타임 어댑터는 이번 출력 변수만 처리합니다. [Skill](SKILL.md) · [영문 런타임 어댑터](references/xxd-panel-041-prompt.en.md)
-
 ## 예시 · X에서
 
 > [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091001986519068891) · 2026년 8월 22일<br>
@@ -59,6 +39,26 @@ lock identity and structural axes → preserve three defining cues → rebuild w
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891">원문 게시물과 전체 프롬프트 보기 →</a></p>
 
 이 예시는 041의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
+## 이 Skill이 필요한 이유
+
+이 스타일은 원본에 의존하며 내용을 바꿔 끼우는 장식 프리셋이 아닙니다. 다음 변환 인과를 따릅니다:
+
+```text
+lock identity and structural axes → preserve three defining cues → rebuild with one coherent isometric grid → derive one source-earned metaphor → make the metaphor govern base, cut, path, enclosure, support, or negative space → use luminous source-derived Japanese colour and matte planes → surround with faint analytic studies → align copy to axes and construction lines
+```
+
+무관한 사진으로 바꿔도 식별, 구성, 배치, 재료, 색, 여백과 문구가 실질적으로 달라지지 않는다면 이 Panel의 결과가 아닙니다.
+
+## 시각적 원칙
+
+- **원본 결속:** 원본에 근거한 은유를 맑은 아이소메트릭 연구도에
+- **스타일 DNA:** 주제 은유 · 등거리 질서 · 옅은 수고 · 일본식 맑은 색 · 동양의 여백
+- **식별성:** 원본 고유 단서를 세 가지 이상 보존하며 무관한 사진이라면 구성도 실질적으로 달라져야 합니다.
+- **구도:** 하나의 주체 또는 분리할 수 없는 관계, 원본에 근거한 배치와 능동적 여백을 지킵니다.
+- **재료와 색:** 고정 템플릿이 아니라 사진에서 도출하고 프로젝트별 생성 규격을 적용합니다.
+
+미적 제약과 금지 항목은 [원본 프롬프트](references/041-source.md)에만 있으며 Skill과 런타임 어댑터는 이번 출력 변수만 처리합니다. [Skill](SKILL.md) · [영문 런타임 어댑터](references/xxd-panel-041-prompt.en.md)
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 

@@ -20,6 +20,26 @@
 
 One coherent isometric model preserves the source while a single geometric metaphor becomes its base, gap, path, enclosure, or negative shape. Faint research sketches remain subordinate traces of thought around the luminous finished form.
 
+## Samples · From X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091001986519068891) · 22 August 2026<br>
+> GPT2 × isometric × Leonardo da Vinci × aesthetic prompt<br>Note: “VOL.401” in the original post is a numbering typo; the author has confirmed these samples belong to XXD Panel 041.
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 041 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 041 sample 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 041 sample 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 041 sample 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 041 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
 ## Why this Skill exists
 
 The style is source-dependent, not a decorative preset. Its operative transformation is:
@@ -40,26 +60,6 @@ If an unrelated photograph could replace the source without materially changing 
 - Use source-earned offset, suspension, scale contrast, cropping, and generous Eastern whitespace while maintaining one visual centre.
 
 Aesthetic constraints and rejection rules live only in the [original source brief](references/041-source.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-041-prompt.en.md)
-
-## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091001986519068891) · 22 August 2026<br>
-> GPT2 × isometric × Leonardo da Vinci × aesthetic prompt<br>Note: “VOL.401” in the original post is a numbering typo; the author has confirmed these samples belong to XXD Panel 041.
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 041 sample 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 041 sample 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 041 sample 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 041 sample 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891">View the original post and full prompt →</a></p>
-
-These samples demonstrate the 041 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## The original brief is authoritative
 
