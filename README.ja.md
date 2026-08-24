@@ -81,6 +81,8 @@ lock identity and structural axes → preserve three defining cues → rebuild w
 
 壁紙セットは連動型または独立型。連動型は最初の一枚を基準画像とし、残りを元写真＋基準画像から各端末向けに再構成します。一枚を四サイズへ機械的に切り抜くことはありません。
 
+各呼び出しではタスクディレクトリを一つだけ作り、最終 PNG をすべてその直下へ保存します。元画像、モード、サイズ、端末ごとのサブフォルダーは作らず、`source-01-left-right-3x2-2160x1440.png` や `source-01-wallpaper-linked-phone-1440x3200.png` のようにファイル名で識別します。
+
 ## 文字モード
 
 生成前に次の一つを選びます。
