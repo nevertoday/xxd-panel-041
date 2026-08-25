@@ -218,7 +218,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 <!-- xxd-panel-catalog:start -->
 ## XXD Panel 全プロジェクト一覧
 
-59 個の Panel は、それぞれ独立した原文プロンプトと美的ロジックを保持しています。全プロジェクトの URL と主要なスタイル特性を一覧にし、現在のプロジェクトを太字で示します。
+60 個の Panel は、それぞれ独立した原文プロンプトと美的ロジックを保持しています。全プロジェクトの URL と主要なスタイル特性を一覧にし、現在のプロジェクトを太字で示します。
 
 | プロジェクト | スタイル特性 |
 |---|---|
@@ -281,6 +281,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 | [xxd-panel-057](https://github.com/nevertoday/xxd-panel-057) | 幾何構成 · インテリジェント・モザイク · 建築図解 · アートマップ · 暖冷の色面 |
 | [xxd-panel-058](https://github.com/nevertoday/xxd-panel-058) | 潜台詞の読解 · 幾何学的ミニマリズム · コンセプト風景 · 柔らかな手仕事感 · 淡い余白 |
 | [xxd-panel-059](https://github.com/nevertoday/xxd-panel-059) | 手描きの物語 · 童心の比喩 · 温かな紙感 · ほのかなユーモア · 詩的な傍白 |
+| [xxd-panel-060](https://github.com/nevertoday/xxd-panel-060) | 黒い主形 · 巨大な余白 · 網点の消散 · 禅的思考 · 思考の断片 |
 <!-- xxd-panel-catalog:end -->
 
 ## XXD について
@@ -303,7 +304,7 @@ Skills の使用とワークフローに関する一対一の相談です。WeCh
 | 階級 | Skill | 担当 |
 |---|---|---|
 | **将軍級** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | 利用可能な番号付き Skills の検出、画像・テーマ・用途からの推薦、番号指定の派遣、同一素材の複数スタイル試作、フォルダー画像の一括割り当てと個別派遣。 |
-| **兵士級** | `xxd-panel-NNN`（現在 001–059） | 各番号が固有の原文プロンプトと美学だけを実行し、将軍から渡された一つの仕事を完成させます。 |
+| **兵士級** | `xxd-panel-NNN`（現在 001–060） | 各番号が固有の原文プロンプトと美学だけを実行し、将軍から渡された一つの仕事を完成させます。 |
 
 将軍 Skill は、番号付き Skills 全隊の司令塔です。ユーザー交流グループの参加メンバーはこれを利用でき、インストール、更新、編成、派遣方法についてサポートを受けられます。将軍は整理と派遣だけを担当し、兵士の原文美学を改変・混合・上書きしません。各完成作品は、選ばれた兵士 Skill が独立して制作します。
 <!-- xxd-panel-command-system:end -->
