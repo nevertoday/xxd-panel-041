@@ -288,6 +288,17 @@ One-to-one in-depth consultation for using Skills. Contact Xiaoxiaodong through 
 
 A one-time fee joins the Skills user community for workflow sharing and peer discussion; hourly consultation is separate.
 
+<!-- xxd-panel-command-system:start -->
+**Community members can use the General Skill that commands the whole roster**
+
+| Level | Skill | Responsibility |
+|---|---|---|
+| **General** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | Detect available numbered Skills; recommend by image, theme, or use; dispatch a chosen number; organize multi-style trials; and assign folders of images to individual jobs. |
+| **Soldiers** | `xxd-panel-NNN` (currently 001–056) | Each numbered Skill executes only its own original brief and aesthetic, completing the individual job assigned by the General. |
+
+The General Skill is the command center for the entire numbered-Skill roster. Community members can use it and receive help with installation, updates, roster setup, and dispatch workflows. The General organizes and routes; it never rewrites, blends, or overrides a Soldier's original aesthetic. Every finished asset is still created independently by the selected Soldier Skill.
+<!-- xxd-panel-command-system:end -->
+
 ### Knowledge Planet + Member Prompt Library · CNY 699/year
 
 One annual payment opens both Knowledge Planet and the member prompt library. Join either side, then contact Xiaoxiaodong on WeChat for the other access.
