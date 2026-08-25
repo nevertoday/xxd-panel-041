@@ -219,7 +219,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 <!-- xxd-panel-catalog:start -->
 ## XXD Panel 全系列项目
 
-56 个 Panel 各自保留独立的原始提示词与审美逻辑。下面列出全部项目地址和核心风格特点；当前项目以粗体标出。
+57 个 Panel 各自保留独立的原始提示词与审美逻辑。下面列出全部项目地址和核心风格特点；当前项目以粗体标出。
 
 | 项目地址 | 风格特点 |
 |---|---|
@@ -279,6 +279,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 | [xxd-panel-054](https://github.com/nevertoday/xxd-panel-054) | 选择性记忆 · 主视觉 · 六枚贴纸 · 哑光印刷 · 空气感蓝 |
 | [xxd-panel-055](https://github.com/nevertoday/xxd-panel-055) | 主体叙事 · 治愈粉彩 · 浅油画笔触 · 空气感蓝 · 编辑留白 |
 | [xxd-panel-056](https://github.com/nevertoday/xxd-panel-056) | 核心意象 · 巨大留白 · 暖冷跳色 · 稚拙手绘 · 视觉隐喻 |
+| [xxd-panel-057](https://github.com/nevertoday/xxd-panel-057) | 几何构成 · 智能马赛克 · 建筑图解 · 艺术地图 · 暖冷色块 |
 <!-- xxd-panel-catalog:end -->
 
 ## 关于 XXD
@@ -301,7 +302,7 @@ XXD 是小小东品牌名的缩写，本项目由小小东创建并维护： [@x
 | 层级 | Skill | 负责什么 |
 |---|---|---|
 | **将军级** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | 识别当前可用的编号 Skills；按图片、主题和用途推荐；按编号点将；组织同图多风格试稿；为图片文件夹批量分配并逐项派发。 |
-| **士兵级** | `xxd-panel-NNN`（当前 001–056） | 每个编号只执行自己独立的原始提示词与审美，把将军派发的单个任务完成为成品。 |
+| **士兵级** | `xxd-panel-NNN`（当前 001–057） | 每个编号只执行自己独立的原始提示词与审美，把将军派发的单个任务完成为成品。 |
 
 将军 Skill 是整个编号 Skills 队伍的总控入口。交流群成员可以使用它，并获得安装、版本更新、队伍配置和调度方式的答疑。将军只负责组织与派发，不会改写、混合或覆盖士兵的原始美学；每张成品仍由被选中的士兵 Skill 独立完成。
 <!-- xxd-panel-command-system:end -->
