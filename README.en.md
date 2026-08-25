@@ -14,16 +14,7 @@
 
 </div>
 
-<div>
-
-> THEME METAPHOR · ISOMETRIC ORDER · PALE MANUSCRIPT · JAPANESE COLOUR · EASTERN SPACE
-
-One coherent isometric model preserves the source while a single geometric metaphor becomes its base, gap, path, enclosure, or negative shape. Faint research sketches remain subordinate traces of thought around the luminous finished form.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091001986519068891) · 22 August 2026<br>
-> GPT2 × isometric × Leonardo da Vinci × aesthetic prompt<br>Note: “VOL.401” in the original post is a numbering typo; the author has confirmed these samples belong to XXD Panel 041.
 
 <table>
   <tr>
@@ -36,9 +27,18 @@ One coherent isometric model preserves the source while a single geometric metap
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091001986519068891) · 22 August 2026<br>
+> GPT2 × isometric × Leonardo da Vinci × aesthetic prompt<br>Note: “VOL.401” in the original post is a numbering typo; the author has confirmed these samples belong to XXD Panel 041.
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 041 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+<div>
+
+> THEME METAPHOR · ISOMETRIC ORDER · PALE MANUSCRIPT · JAPANESE COLOUR · EASTERN SPACE
+
+One coherent isometric model preserves the source while a single geometric metaphor becomes its base, gap, path, enclosure, or negative shape. Faint research sketches remain subordinate traces of thought around the luminous finished form.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 041 right for you?
