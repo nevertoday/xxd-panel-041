@@ -314,7 +314,7 @@ Knowledge Planet과 회원 프롬프트 라이브러리는 하나의 연간 멤�
 
 ## ☕ 오픈 소스 프로젝트 후원
 
-중국어판 이외에는 Buy Me a Coffee를 이용할 수 있습니다. 후원은 선택 사항이며 오픈 소스 접근 권한을 바꾸지 않습니다.
+프로젝트가 도움이 되었다면 Buy Me a Coffee로 자율 후원할 수 있습니다.
 
 
 <p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>

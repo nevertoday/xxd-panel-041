@@ -314,7 +314,7 @@ Knowledge Planet ومكتبة توجيهات الأعضاء عضوية سنوي�
 
 ## ☕ دعم المشروع المفتوح المصدر
 
-تستخدم النسخ غير الصينية Buy Me a Coffee. الدعم اختياري ولا يغيّر الوصول إلى المشروع المفتوح المصدر.
+إذا أفادك المشروع، يمكنك دعمه اختيارياً عبر Buy Me a Coffee.
 
 
 <p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>

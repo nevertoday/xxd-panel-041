@@ -315,7 +315,7 @@ One annual payment opens both Knowledge Planet and the member prompt library. Jo
 
 ## Support this open-source project
 
-Chinese-language support may use Xiaoxiaodong's own WeChat or Alipay reward codes; other editions use Buy Me a Coffee. Support is optional and never changes access to the open-source project.
+If this project helps you, you’re welcome to support it through Buy Me a Coffee—entirely optional.
 
 
 <p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>

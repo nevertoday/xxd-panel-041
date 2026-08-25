@@ -314,7 +314,7 @@ Knowledge Planet と会員プロンプトライブラリは一つの年会です
 
 ## ☕ オープンソースを支援
 
-中国語圏以外では Buy Me a Coffee を利用できます。支援は任意で、オープンソースへのアクセスを変えません。
+このプロジェクトが役に立ったら、Buy Me a Coffee から任意で応援していただけます。
 
 
 <p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
