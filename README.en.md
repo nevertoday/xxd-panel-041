@@ -48,12 +48,12 @@ Check the samples below if you want to feel out the aesthetic. If you are ready,
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091001986519068891"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 041 sample 4"></a></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="./assets/examples/sample-05.png" alt="XXD Panel 041 Sample 5"></td>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 041 Sample 5"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 041 Sample 6"></td>
   </tr>
   <tr>
-    <td width="33%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 041 Sample 6"></td>
-    <td width="33%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 041 Sample 7"></td>
-    <td width="33%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 041 Sample 8"></td>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 041 Sample 7"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 041 Sample 8"></td>
   </tr>
 </table>
 
