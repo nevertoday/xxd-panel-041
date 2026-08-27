@@ -1,3 +1,6 @@
+  - `sample-06.png` — generated 16:9 left-right English-copy sample from the Chenxiang poster batch
+  - `sample-07.png` — generated 16:9 left-right English-copy sample from the Chenxiang poster batch
+  - `sample-08.png` — generated 16:9 left-right English-copy sample from the Chenxiang poster batch
 # XXD Panel 041 samples
 
 Verified source: https://x.com/xiaoxiaodong01/status/2091001986519068891
