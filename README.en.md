@@ -62,6 +62,21 @@ Check the samples below if you want to feel out the aesthetic. If you are ready,
   </tr>
 </table>
 
+## Additional 3:4 Top–Bottom Samples
+
+These four works reuse the same four independent sources as the 16:9 set above, now regenerated as complete 3:4 top–bottom canvases. The reality photograph stays above; the lower design follows Panel 041's original brief. English copy is generated only from each photograph's content, mood, or implication, and every result was individually reviewed.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 041 additional top-bottom sample 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 041 additional top-bottom sample 2"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 041 additional top-bottom sample 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 041 additional top-bottom sample 4"></td>
+  </tr>
+</table>
+
 > [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091001986519068891) · 22 August 2026<br>
 > GPT2 × isometric × Leonardo da Vinci × aesthetic prompt<br>Note: “VOL.401” in the original post is a numbering typo; the author has confirmed these samples belong to XXD Panel 041.
 

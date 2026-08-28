@@ -62,6 +62,21 @@
   </tr>
 </table>
 
+## 追加 3:4 上下構成作例
+
+上の 16:9 作例と同じ4点の独立素材を、完全な 3:4 上下構成として再生成しました。上部は現実の写真を保ち、下部は Panel 041 の原文プロンプトに従って再構成しています。英語コピーは各写真の内容・空気・含意だけから生成し、全点を個別に確認しました。
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 041 追加上下作例 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 041 追加上下作例 2"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 041 追加上下作例 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 041 追加上下作例 4"></td>
+  </tr>
+</table>
+
 > [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091001986519068891) · 2026年8月22日<br>
 > GPT2 × isometric × レオナルド・ダ・ヴィンチ × 美学プロンプト<br>注：元の投稿にある「VOL.401」は番号の誤記であり、作者が本作例を XXD Panel 041 と確認しています。
 
