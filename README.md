@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 041
+# 🦁 XXD Panel 041｜等距研究室
 
 ### 把一个有依据的主题隐喻建进清透等距研究图
 

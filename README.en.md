@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 041
+# 🦁 XXD Panel 041｜Isometric Lab
 
 ### Build one source-earned metaphor into a luminous isometric study
 

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 041
+# 🦁 XXD Panel 041｜아이소메트릭 연구실
 
 ### 원본에 근거한 은유를 맑은 아이소메트릭 연구도에
 
