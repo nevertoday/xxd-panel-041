@@ -4,10 +4,6 @@
 
 ### 把一个有依据的主题隐喻建进清透等距研究图
 
-[![Codex Skill](https://img.shields.io/badge/Codex-Skill-000000?style=flat-square)](./SKILL.md)
-[![Modes](https://img.shields.io/badge/Modes-4-EA846F?style=flat-square)](#)
-[![Output](https://img.shields.io/badge/Output-PNG-6FAEB4?style=flat-square)](#)
-
 <strong>简体中文</strong> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
 </div>
@@ -25,7 +21,7 @@
   </tr>
 </table>
 
-## 新增 16:9 左右双联样张
+## 16:9 左右双联样张
 
 <table>
   <tr>
@@ -38,7 +34,7 @@
   </tr>
 </table>
 
-## 新增 3:4 上下双联样张
+## 3:4 上下双联样张
 
 以下四张复用上方 16:9 样张对应的四张独立素材，重新生成完整 3:4 上下双联画布；上部保留现实摄影，下部遵循 041 原始提示词重构。英文配字只从当前照片的内容、情绪或隐喻中生成，并已逐张复核。
 
@@ -299,9 +295,9 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 完整规格: [Skill 工作流](SKILL.md) · [原始风格档案](references/original-prompt/zh-CN.md) · [英文运行适配器](references/xxd-panel-041-prompt.en.md) · [中文运行适配器](references/xxd-panel-041-prompt.zh-CN.md)
 
 <!-- xxd-panel-catalog:start -->
-## XXD Panel 全系列项目
+## XXD Panel 历史目录
 
-60 个 Panel 各自保留独立的原始提示词与审美逻辑。下面列出全部项目地址和核心风格特点；当前项目以粗体标出。
+下表列出 001–060 的历史 Panel 目录；每个项目保留独立的原始提示词与审美逻辑，当前项目以粗体标出。
 
 | 项目地址 | 风格特点 |
 |---|---|
@@ -387,7 +383,7 @@ XXD 是小小东品牌名的缩写，本项目由小小东创建并维护： [@x
 | 层级 | Skill | 负责什么 |
 |---|---|---|
 | **将军级** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | 识别当前可用的编号 Skills；按图片、主题和用途推荐；按编号点将；组织同图多风格试稿；为图片文件夹批量分配并逐项派发。 |
-| **士兵级** | `xxd-panel-NNN`（当前 001–060） | 每个编号只执行自己独立的原始提示词与审美，把将军派发的单个任务完成为成品。 |
+| **士兵级** | `xxd-panel-NNN`（当前 001–112） | 每个编号只执行自己独立的原始提示词与审美，把将军派发的单个任务完成为成品。 |
 
 将军 Skill 是整个编号 Skills 队伍的总控入口。购买后即可使用，并获得安装、版本更新、队伍配置和调度方式的答疑。将军只负责组织与派发，不会改写、混合或覆盖士兵的原始美学；每张成品仍由被选中的士兵 Skill 独立完成。
 <!-- xxd-panel-command-system:end -->

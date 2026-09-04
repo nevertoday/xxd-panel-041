@@ -4,10 +4,6 @@
 
 ### 원본에 근거한 은유를 맑은 아이소메트릭 연구도에
 
-[![Codex Skill](https://img.shields.io/badge/Codex-Skill-000000?style=flat-square)](./SKILL.md)
-[![Modes](https://img.shields.io/badge/Modes-4-EA846F?style=flat-square)](#)
-[![Output](https://img.shields.io/badge/Output-PNG-6FAEB4?style=flat-square)](#)
-
 <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <strong>한국어</strong> · <a href="README.ar.md">العربية</a>
 
 </div>
@@ -25,7 +21,7 @@
   </tr>
 </table>
 
-## 추가 16:9 좌우 구성 예시
+## 16:9 가로형 좌우 구성 예시
 
 <table>
   <tr>
@@ -38,7 +34,7 @@
   </tr>
 </table>
 
-## 추가 3:4 상하 구성 예시
+## 3:4 세로형 상하 구성 예시
 
 위 16:9 예시와 같은 네 개의 독립 소스를 완전한 3:4 상하 캔버스로 다시 생성했습니다. 위쪽은 현실 사진을 유지하고 아래쪽은 Panel 041의 원본 프롬프트에 따라 재구성합니다. 영어 문구는 각 사진의 내용·분위기·함의에서만 생성했으며 모든 결과를 개별 검수했습니다.
 
@@ -298,9 +294,9 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 전체 사양: [Skill 워크플로](SKILL.md) · [원본 스타일 자료](references/original-prompt/zh-CN.md) · [영문 런타임 어댑터](references/xxd-panel-041-prompt.en.md) · [중문 런타임 어댑터](references/xxd-panel-041-prompt.zh-CN.md)
 
 <!-- xxd-panel-catalog:start -->
-## XXD Panel 전체 프로젝트 목록
+## XXD Panel 역대 디렉터리
 
-60개 Panel은 각각 독립된 원본 프롬프트와 미적 논리를 유지합니다. 아래 표에서 모든 프로젝트 주소와 핵심 스타일 특징을 확인할 수 있으며 현재 프로젝트는 굵게 표시됩니다.
+이 표는 역대 001–060 Panel 디렉터리입니다. 각 항목은 독립된 원본 프롬프트와 미적 논리를 유지하며 현재 프로젝트는 굵게 표시됩니다.
 
 | 프로젝트 | 스타일 특징 |
 |---|---|
@@ -382,7 +378,7 @@ CNY 100을 한 번 결제하면 이 시리즈의 장군 총지휘 Skill(`xxd-pan
 | 등급 | Skill | 역할 |
 |---|---|---|
 | **장군급** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | 사용 가능한 번호형 Skills 탐지, 이미지·주제·용도별 추천, 번호 지정 파견, 동일 입력의 여러 스타일 시안, 이미지 폴더의 일괄 배정과 개별 작업 파견. |
-| **병사급** | `xxd-panel-NNN` (현재 001–060) | 각 번호가 고유한 원본 프롬프트와 미학만 실행해 장군이 배정한 하나의 작업을 완성합니다. |
+| **병사급** | `xxd-panel-NNN` (현재 001–112) | 각 번호가 고유한 원본 프롬프트와 미학만 실행해 장군이 배정한 하나의 작업을 완성합니다. |
 
 장군 Skill은 번호형 Skills 전체 부대의 지휘 본부입니다. 구매 후 바로 사용할 수 있으며 설치, 버전 업데이트, 병력 구성, 파견 흐름에 대한 도움을 받을 수 있습니다. 장군은 조직과 파견만 담당하며 병사의 원본 미학을 다시 쓰거나 섞거나 덮어쓰지 않습니다. 각 결과물은 선택된 병사 Skill이 독립적으로 완성합니다.
 <!-- xxd-panel-command-system:end -->
