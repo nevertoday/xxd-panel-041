@@ -389,21 +389,6 @@ XXD は Xiaoxiaodong のブランド名略称です。作成・管理： [@xiaox
 <p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="XXD WeChat" width="280"></a></p>
 
 <div align="center"><strong>完成形と思考の痕跡が、一つの静かな場を共有する。</strong></div>
-
----
-
-<div align="center">
-
-## ☕ オープンソースを支援
-
-> **広告表示：** このセクションのQRコードおよび有料会員・サービスのリンクはXXDのプロモーション情報です。スキャンや購入は任意であり、オープンソースの利用には影響しません。
-
-このプロジェクトが役に立ったら、Buy Me a Coffee から任意で応援していただけます。
-
-
-<p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
-
-</div>
 </div>
 
 ## ライセンス

@@ -390,21 +390,6 @@ All General Skills are included in the CNY 699/year membership; no separate purc
 <p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="XXD WeChat" width="280"></a></p>
 
 <div align="center"><strong>The finished form and the trace of thought share one quiet field.</strong></div>
-
----
-
-<div align="center">
-
-## Support this open-source project
-
-> **Advertising disclosure:** QR codes and paid membership/service links in this section are XXD promotional content. Scanning or purchasing is optional and does not affect access to this open-source project.
-
-If this project helps you, you’re welcome to support it through Buy Me a Coffee—entirely optional.
-
-
-<p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
-
-</div>
 </div>
 
 ## License

@@ -392,22 +392,6 @@ XXD 是小小东品牌名的缩写，本项目由小小东创建并维护： [@x
 <p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="XXD WeChat" width="280"></a></p>
 
 <div align="center"><strong>理性成品与思考痕迹，共处一片安静空间。</strong></div>
-
----
-
-<div align="center">
-
-## ☕ 支持这个开源项目
-
-如果项目对你有帮助，愿意的话，可以用小小东本人的微信或支付宝赞赏码支持算力。
-
-
-<table><tr>
-<td align="center"><a href="https://colors.xiaoxiaodong.ai/docs/images/wechat-reward-qr.png"><img src="https://colors.xiaoxiaodong.ai/docs/images/wechat-reward-qr.png" alt="XXD WeChat reward" width="180"></a><br><strong>WeChat</strong></td>
-<td align="center"><a href="https://colors.xiaoxiaodong.ai/docs/images/alipay-reward-qr.png"><img src="https://colors.xiaoxiaodong.ai/docs/images/alipay-reward-qr.png" alt="XXD Alipay reward" width="180"></a><br><strong>Alipay</strong></td>
-</tr></table>
-
-</div>
 </div>
 
 ## 许可证
