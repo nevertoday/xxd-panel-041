@@ -84,6 +84,15 @@
 視覚方向を先に確認したい場合は、上の作例をご覧ください。準備ができたら[使い始める](#使い始める)へ進めます。全モードと引数は折りたたみ資料から必要に応じて確認できます。
 <!-- xxd-human-intro:end -->
 
+## 使い方のコツ
+
+- **まず一枚の見やすい写真から始める：** 主体・動作・関係が分かる画像を選んでから、出力形式と比率を決めます。
+- **パラメータを一文でつなぐ：** 「上下 / 左右 / デザインのみ + 16:9 / 3:4 / スマホ壁紙」のように指定し、PC・タブレット・スマートウォッチのサイズも追加できます。
+- **残したい内容を明示する：** 人物、物、動作、関係、文字を指定し、レイアウトを細かく縛りすぎずスタイルに任せます。
+- **文字の方法を選ぶ：** 画像から自動生成、`--text exact --copy` で逐字固定、または `--text none` で文字なしにできます。
+- **写真領域とデザイン領域を伝える：** 上下・左右では写真を残す側と再設計する側を指定し、デザインのみ・壁紙では全画面を再設計すると伝えます。
+- **一枚で試してから一括処理する：** モード、比率、文字、言語を一枚で確認し、同じ設定をフォルダに適用します。比較しやすいよう一度に一つだけ変更します。
+
 ## 原始プロンプト · 5言語
 
 [統一された多言語ディレクトリを開く](references/original-prompt/): [簡体字中国語原文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -100,26 +109,6 @@
 | **入力素材をどう尊重するか** | 入力に固有の人物・物・関係・構造・事実を識別可能なまま保ちます。スタイル変換は視覚言語を再構成するもので、内容を無関係なテンプレートへ置き換えません。 |
 | **利用できる形** | 上下、左右、デザインのみ、4端末の壁紙を、複数比率または正確なサイズで作れます。納品形式が変わっても、この Panel のスタイル固有性は薄まりません。 |
 <!-- xxd-panel-benefit:end -->
-
-## 入力から独自の完成作品が生まれるまで
-
-このスタイルは元写真に依存し、内容を差し替えられる装飾プリセットではありません。変換は次の因果鎖に従います：
-
-```text
-lock identity and structural axes → preserve three defining cues → rebuild with one coherent isometric grid → derive one source-earned metaphor → make the metaphor govern base, cut, path, enclosure, support, or negative space → use luminous source-derived Japanese colour and matte planes → surround with faint analytic studies → align copy to axes and construction lines
-```
-
-無関係な写真に替えても認識、構造、配置、素材、色、余白、文案が実質的に変わらないなら、本 Panel の成果ではありません。
-
-## 完成作品で見分けやすいスタイル特性
-
-- **元写真への拘束：** 元写真に根差す比喩を、透明感ある等距研究図へ組み込む
-- **スタイルDNA：** テーマ比喩 · 等距秩序 · 淡い手稿 · 和色の透明感 · 東洋の余白
-- **識別性：** 元写真固有の手掛かりを三つ以上保ち、無関係な写真なら構造も実質的に変わること。
-- **構図：** 一つの主体または不可分の関係、元写真に根拠のある配置、能動的な余白を守ること。
-- **素材と色：** 固定テンプレートではなく、写真から導き、プロジェクト固有の生成仕様に従うこと。
-
-美的制約と拒否項目は[原文プロンプト](references/original-prompt/zh-CN.md)だけにあり、Skill とランタイムアダプターは今回の出力変数だけを扱います。 [Skill](SKILL.md) · [英語ランタイムアダプター](references/xxd-panel-041-prompt.en.md)
 
 <details>
 <summary><strong>全機能と引数（必要なときに開く）</strong></summary>
